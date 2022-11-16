@@ -6,7 +6,7 @@
 ```bash
 git clone https://github.com/Vlvdik/REST-API-server
 ```
-### 2) Run your bot by pulling up all dependencies using the **makefile**
+### 2) Start the server using the **makefile**
 ```bash
 make build
 ```
