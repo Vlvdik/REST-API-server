@@ -1,6 +1,6 @@
-#**A simple HTTP server that implements the ability to register and authenticate the user. It follows the principles of REST**
+# **A simple HTTP server that implements the ability to register and authenticate the user. It follows the principles of REST**
 #
-#**Installation**
+# **Installation**
 #
 ### 1) Clone this repository
 ```bash
